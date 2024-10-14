@@ -4,6 +4,8 @@
 
 Chrome 浏览器多账号批量自动化执行脚本
 
+**优势：使用多个 Profile 可以避免切换登录账号的问题**
+
 ## Chrome Profile 说明
 
 一个 Google 账号对应一个 Chrome Profile
